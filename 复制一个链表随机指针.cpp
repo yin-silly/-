@@ -21,23 +21,17 @@ public:
 
 unordered_map<Node*, Node*> cachedNode;
 
-Node* copyRandomList(Node* head) {
-    if (head == nullptr)
+Node* copyRandomList(Node* head) {//使用键值对来存储节点，如果没有创建 则创建键值，如果创建
+    if (head == nullptr)            //返回值的指针
         return nullptr;
-    while (!cachedNode.count(head)) {
+    if (!cachedNode.count(head)) {
         Node* newhead = new Node(head->val);
         cachedNode[head] = newhead;
-        newhead->next = head->next;
-        newhead->random = head->random;
+        newhead->next = copyRandomList(head->next);
+        newhead->random = copyRandomList(head->random);
      }
     return cachedNode[head];
 
 
 }
 
-int main() {
-    
-    
-    
-    return 0;
-}
