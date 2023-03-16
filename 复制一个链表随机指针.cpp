@@ -1,8 +1,8 @@
 #include<iostream>
 #include<memory>
 #include<unordered_map>
-#include<graphics.h>
-#include<conio.h>
+//#include<graphics.h>//easyxÍ¼ÐÎ¿â
+//#include<conio.h>
 
 using namespace std;
 
@@ -37,10 +37,7 @@ Node* copyRandomList(Node* head) {
 
 int main() {
     
-    initgraph(640, 480);
-    fillcircle(150, 150, 150);
-    _getch();
-    closegraph();
+    
     
     return 0;
 }
