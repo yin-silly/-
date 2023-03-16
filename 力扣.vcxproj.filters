@@ -33,5 +33,14 @@
     <ClCompile Include="定义min_stack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="从尾打印链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="列表反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="复制一个链表随机指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

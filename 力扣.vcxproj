@@ -128,10 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="myPow.cpp" />
+    <ClCompile Include="复制一个链表随机指针.cpp" />
     <ClCompile Include="字符串相乘.cpp" />
     <ClCompile Include="字符串相加.cpp" />
     <ClCompile Include="两个栈实现队.cpp" />
     <ClCompile Include="定义min_stack.cpp" />
+    <ClCompile Include="从尾打印链表.cpp" />
+    <ClCompile Include="列表反转.cpp" />
     <ClCompile Include="矩阵顺势转90度.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
