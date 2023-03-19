@@ -93,5 +93,8 @@
     <ClCompile Include="0～n-1中缺失的数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二维数组中的查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

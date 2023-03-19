@@ -131,6 +131,7 @@
     <ClCompile Include="vector加一.cpp" />
     <ClCompile Include="Weiszfeld 算法求中位中心.cpp" />
     <ClCompile Include="二元计算器.cpp" />
+    <ClCompile Include="二维数组中的查找.cpp" />
     <ClCompile Include="删除vector中的指定元素.cpp" />
     <ClCompile Include="回文数.cpp" />
     <ClCompile Include="复制一个链表随机指针.cpp" />
