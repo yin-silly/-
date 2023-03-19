@@ -81,5 +81,17 @@
     <ClCompile Include="罗马数字转整数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="左旋字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组中重复的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字在数组中出现次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0～n-1中缺失的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
