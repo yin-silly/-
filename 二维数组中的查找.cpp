@@ -25,6 +25,7 @@ bool findNumberIn2DArray(vector<vector<int>>& matrix, int target) {
 			}
 		}
 		return 0;
+		
 }
 
 //int main() {
