@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\力扣temp\z字形打印二叉树.cpp" />
+    <ClCompile Include="..\力扣temp\从上到下打印二叉树.cpp" />
+    <ClCompile Include="..\力扣temp\从上到下打印二叉树按层分开.cpp" />
     <ClCompile Include="..\力扣temp\旋转数组的最小数字.cpp" />
     <ClCompile Include="..\力扣temp\第一个只出现一次的字符.cpp" />
     <ClCompile Include="myPow.cpp" />
