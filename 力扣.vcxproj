@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\力扣temp\旋转数组的最小数字.cpp" />
+    <ClCompile Include="..\力扣temp\第一个只出现一次的字符.cpp" />
     <ClCompile Include="myPow.cpp" />
     <ClCompile Include="vector加一.cpp" />
     <ClCompile Include="Weiszfeld 算法求中位中心.cpp" />

@@ -96,5 +96,11 @@
     <ClCompile Include="二维数组中的查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\力扣temp\旋转数组的最小数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\力扣temp\第一个只出现一次的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

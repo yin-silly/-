@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "力扣", "力扣.vcxproj", "{147E9903-8186-4BC1-9927-62BC8D900947}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "力扣temp", "..\力扣temp\力扣temp.vcxproj", "{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{147E9903-8186-4BC1-9927-62BC8D900947}.Release|x64.Build.0 = Release|x64
 		{147E9903-8186-4BC1-9927-62BC8D900947}.Release|x86.ActiveCfg = Release|Win32
 		{147E9903-8186-4BC1-9927-62BC8D900947}.Release|x86.Build.0 = Release|Win32
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Debug|x64.ActiveCfg = Debug|x64
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Debug|x64.Build.0 = Debug|x64
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Debug|x86.ActiveCfg = Debug|Win32
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Debug|x86.Build.0 = Debug|Win32
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Release|x64.ActiveCfg = Release|x64
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Release|x64.Build.0 = Release|x64
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Release|x86.ActiveCfg = Release|Win32
+		{1550A0E6-B7AA-4385-A1F1-5ADC8088A254}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
